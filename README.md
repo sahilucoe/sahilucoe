@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-😎 I'm Sahil a **FullStack .Net Developer** based in India. 
+😎 I'm Sahil a **.Net Specialist** based in India. 
 
 ⚡ Coding at [Sage](https://www.sage.com/) for [AutoEntry](https://www.autoentry.com).
 
